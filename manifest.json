@@ -1,0 +1,13 @@
+{
+    "name":"Screenrec",
+    "version":"1.0.0",
+    "description":"Simple Screen Recording For PC With Microphone Audio",
+    "manifest_version":3,
+    "author":"Layomi Saba",
+    "action":{
+        "default_icon":"./Public/cinema-4153289_640.jpg",
+        "default_popup":"popup.html",
+        "default_title":"Screenrec"
+    }
+    
+}
